@@ -4,5 +4,6 @@ Projeto criado para fins de estudo de uma calculadora utilizando HTML, CSS, JAVA
 
 ## SCREENSHOT
 
-![calculadora-react](https://user-images.githubusercontent.com/29956737/142249454-4654265f-c830-4b9d-86d5-0be0dc71146a.PNG)
+![calculadora-react](https://user-images.githubusercontent.com/29956737/142249637-d8915438-1632-4ecb-b9ed-5807b242e94b.PNG)
+
 
