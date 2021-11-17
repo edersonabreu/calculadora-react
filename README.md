@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# CALCULADORA REACT JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto criado para fins de estudo de uma calculadora utilizando HTML, CSS, JAVASCRIPT, REACT JS 
 
-## Available Scripts
+## SCREENSHOT
 
 In the project directory, you can run:
 
